@@ -1,0 +1,7 @@
+{
+  "Envt": {
+    "defaultInstance": "sit",
+    "demoInstance": "demo",
+    "dynamicevnts": "#{Enviorment}#"
+  }
+}
